@@ -1,0 +1,14 @@
+defaultPlatforms:
+  - linux/arm64/v8
+  - linux/amd64
+
+builds:
+  - id: connector
+    dir: . # default is .
+    main: .
+    flags:
+      - -tags
+      - netgo
+    ldflags:
+      - -s -w
+      - -extldflags "-static"
