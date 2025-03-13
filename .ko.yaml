@@ -6,6 +6,8 @@ builds:
   - id: connector
     dir: . # default is .
     main: .
+    env:
+      - CGO_ENABLED=0
     flags:
       - -tags
       - netgo
