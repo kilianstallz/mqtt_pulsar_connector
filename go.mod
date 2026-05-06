@@ -19,7 +19,7 @@ require (
 	github.com/gogo/protobuf v1.3.2 // indirect
 	github.com/google/gofuzz v1.2.0 // indirect
 	github.com/google/shlex v0.0.0-20191202100458-e7afc7fbc510 // indirect
-	github.com/grafana/pyroscope-go/godeltaprof v0.1.8 // indirect
+	github.com/grafana/pyroscope-go/godeltaprof v0.1.10 // indirect
 	github.com/munnerz/goautoneg v0.0.0-20191010083416-a7dc8b61c822 // indirect
 	github.com/x448/float16 v0.8.4 // indirect
 	golang.org/x/crypto v0.36.0 // indirect
@@ -55,14 +55,14 @@ require (
 	github.com/golang/protobuf v1.5.4 // indirect
 	github.com/google/uuid v1.6.0 // indirect
 	github.com/gorilla/websocket v1.5.3 // indirect
-	github.com/grafana/pyroscope-go v1.2.1
+	github.com/grafana/pyroscope-go v1.3.0
 	github.com/grpc-ecosystem/grpc-gateway/v2 v2.26.1 // indirect
 	github.com/gsterjov/go-libsecret v0.0.0-20161001094733-a6f4afe4910c // indirect
 	github.com/hamba/avro/v2 v2.28.0 // indirect
 	github.com/hashicorp/errwrap v1.1.0 // indirect
 	github.com/hashicorp/go-multierror v1.1.1 // indirect
 	github.com/json-iterator/go v1.1.12 // indirect
-	github.com/klauspost/compress v1.18.0 // indirect
+	github.com/klauspost/compress v1.18.6 // indirect
 	github.com/matttproud/golang_protobuf_extensions v1.0.4 // indirect
 	github.com/mitchellh/mapstructure v1.5.0 // indirect
 	github.com/modern-go/concurrent v0.0.0-20180306012644-bacd9c7ef1dd // indirect
